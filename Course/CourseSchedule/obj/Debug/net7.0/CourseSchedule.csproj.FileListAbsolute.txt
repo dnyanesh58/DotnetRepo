@@ -1,0 +1,12 @@
+H:\DAC\LAB SESSIONS\DOTNET_LAB\Day_3\Course\CourseSchedule\obj\Debug\net7.0\CourseSchedule.csproj.AssemblyReference.cache
+H:\DAC\LAB SESSIONS\DOTNET_LAB\Day_3\Course\CourseSchedule\obj\Debug\net7.0\CourseSchedule.GeneratedMSBuildEditorConfig.editorconfig
+H:\DAC\LAB SESSIONS\DOTNET_LAB\Day_3\Course\CourseSchedule\obj\Debug\net7.0\CourseSchedule.AssemblyInfoInputs.cache
+H:\DAC\LAB SESSIONS\DOTNET_LAB\Day_3\Course\CourseSchedule\obj\Debug\net7.0\CourseSchedule.AssemblyInfo.cs
+H:\DAC\LAB SESSIONS\DOTNET_LAB\Day_3\Course\CourseSchedule\obj\Debug\net7.0\CourseSchedule.csproj.CoreCompileInputs.cache
+H:\DAC\LAB SESSIONS\DOTNET_LAB\Day_3\Course\CourseSchedule\bin\Debug\net7.0\CourseSchedule.deps.json
+H:\DAC\LAB SESSIONS\DOTNET_LAB\Day_3\Course\CourseSchedule\bin\Debug\net7.0\CourseSchedule.dll
+H:\DAC\LAB SESSIONS\DOTNET_LAB\Day_3\Course\CourseSchedule\bin\Debug\net7.0\CourseSchedule.pdb
+H:\DAC\LAB SESSIONS\DOTNET_LAB\Day_3\Course\CourseSchedule\obj\Debug\net7.0\CourseSchedule.dll
+H:\DAC\LAB SESSIONS\DOTNET_LAB\Day_3\Course\CourseSchedule\obj\Debug\net7.0\refint\CourseSchedule.dll
+H:\DAC\LAB SESSIONS\DOTNET_LAB\Day_3\Course\CourseSchedule\obj\Debug\net7.0\CourseSchedule.pdb
+H:\DAC\LAB SESSIONS\DOTNET_LAB\Day_3\Course\CourseSchedule\obj\Debug\net7.0\ref\CourseSchedule.dll
