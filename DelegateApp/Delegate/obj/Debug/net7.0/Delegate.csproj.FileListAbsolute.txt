@@ -1,0 +1,15 @@
+H:\DAC\LAB SESSIONS\DOTNET_LAB\Day_4\DelegateApp\Delegate\obj\Debug\net7.0\Delegate.csproj.AssemblyReference.cache
+H:\DAC\LAB SESSIONS\DOTNET_LAB\Day_4\DelegateApp\Delegate\obj\Debug\net7.0\Delegate.GeneratedMSBuildEditorConfig.editorconfig
+H:\DAC\LAB SESSIONS\DOTNET_LAB\Day_4\DelegateApp\Delegate\obj\Debug\net7.0\Delegate.AssemblyInfoInputs.cache
+H:\DAC\LAB SESSIONS\DOTNET_LAB\Day_4\DelegateApp\Delegate\obj\Debug\net7.0\Delegate.AssemblyInfo.cs
+H:\DAC\LAB SESSIONS\DOTNET_LAB\Day_4\DelegateApp\Delegate\obj\Debug\net7.0\Delegate.csproj.CoreCompileInputs.cache
+H:\DAC\LAB SESSIONS\DOTNET_LAB\Day_4\DelegateApp\Delegate\bin\Debug\net7.0\Delegate.exe
+H:\DAC\LAB SESSIONS\DOTNET_LAB\Day_4\DelegateApp\Delegate\bin\Debug\net7.0\Delegate.deps.json
+H:\DAC\LAB SESSIONS\DOTNET_LAB\Day_4\DelegateApp\Delegate\bin\Debug\net7.0\Delegate.runtimeconfig.json
+H:\DAC\LAB SESSIONS\DOTNET_LAB\Day_4\DelegateApp\Delegate\bin\Debug\net7.0\Delegate.dll
+H:\DAC\LAB SESSIONS\DOTNET_LAB\Day_4\DelegateApp\Delegate\bin\Debug\net7.0\Delegate.pdb
+H:\DAC\LAB SESSIONS\DOTNET_LAB\Day_4\DelegateApp\Delegate\obj\Debug\net7.0\Delegate.dll
+H:\DAC\LAB SESSIONS\DOTNET_LAB\Day_4\DelegateApp\Delegate\obj\Debug\net7.0\refint\Delegate.dll
+H:\DAC\LAB SESSIONS\DOTNET_LAB\Day_4\DelegateApp\Delegate\obj\Debug\net7.0\Delegate.pdb
+H:\DAC\LAB SESSIONS\DOTNET_LAB\Day_4\DelegateApp\Delegate\obj\Debug\net7.0\Delegate.genruntimeconfig.cache
+H:\DAC\LAB SESSIONS\DOTNET_LAB\Day_4\DelegateApp\Delegate\obj\Debug\net7.0\ref\Delegate.dll
